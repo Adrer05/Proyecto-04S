@@ -2,6 +2,7 @@ import os
 import time
 import threading
 import sys
+import FreeSimpleGUI as sg
 os.system("cls")
 
 def limpiar_pantalla():
